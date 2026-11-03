@@ -405,15 +405,17 @@ The project focuses on bringing deep learning-based agricultural disease identif
 
 ---
 
-## 📜 License
-
-No open-source license has been specified yet. Please contact the project authors for permission before reusing or redistributing the project materials.
-
----
-
 ## ⭐ Support
 
-If you find this project interesting, consider giving the repository a star ⭐ on GitHub.
+If you find this project useful or interesting, please consider giving this repository a star ⭐ on GitHub.
 
 Thank you for visiting RiceDT!
 
+---
+
+**Developed by:**
+- Md. Shah Alam
+- Md. Nazibur Rahman
+
+**Department of Computer Science and Engineering (CSE)**  
+Daffodil International University (DIU)
