@@ -414,7 +414,7 @@ Thank you for visiting RiceDT!
 ---
 
 **Developed by:**
-- Md. Shah Alam
+- Md Shah Alam
 - Md. Nazibur Rahman
 
 **Department of Computer Science and Engineering (CSE)**  
